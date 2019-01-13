@@ -1,6 +1,6 @@
 # coding=utf-8
 
-from CookBookLearning.VolumeAction import TenantAction
+from CookBookLearning.ClassTestCase.VolumeAction import TenantAction
 
 
 def many_tenant():

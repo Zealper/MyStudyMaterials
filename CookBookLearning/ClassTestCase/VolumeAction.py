@@ -1,4 +1,4 @@
-from CookBookLearning.Authentication import Test1
+from CookBookLearning.ClassTestCase.Authentication import Test1
 
 
 class TenantAction(object):
