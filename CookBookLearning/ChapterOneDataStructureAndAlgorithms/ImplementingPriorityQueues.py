@@ -38,4 +38,3 @@ if __name__ == '_main__':
     # foo
     q.pop()
     # grok
-    q.pop()
