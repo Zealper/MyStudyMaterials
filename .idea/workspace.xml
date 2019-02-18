@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fab892-5120-4830-9b07-ccd63a012d26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CoderWorld/PalindromeTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ImplementingPriorityQueues.py" beforeDir="false" afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ImplementingPriorityQueues.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,20 +79,11 @@
       <file leaf-file-name="PalindromeTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoderWorld/PalindromeTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <state relative-caret-position="559">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1770889009/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53895">
-              <caret line="3593" column="8" selection-start-line="3593" selection-start-column="8" selection-end-line="3593" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -150,7 +139,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="134" />
+    <option name="x" value="137" />
     <option name="y" value="23" />
     <option name="width" value="1245" />
     <option name="height" value="796" />
@@ -335,7 +324,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="23" width="1245" height="796" extended-state="0" />
+    <frame x="185" y="23" width="1245" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -529,8 +518,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CoderWorld/PalindromeTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+        <state relative-caret-position="559">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
