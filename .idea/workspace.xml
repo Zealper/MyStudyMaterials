@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fab892-5120-4830-9b07-ccd63a012d26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/LookForSimilaritiesInTheDictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,18 +13,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$Twisted_Trial_in_mycookbooktest1_py.coverage" NAME="Twisted Trial in mycookbooktest1.py Coverage Results" MODIFIED="1547391864679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1547375835741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$KeepTheDictionaryInOrder.coverage" NAME="KeepTheDictionaryInOrder Coverage Results" MODIFIED="1550676494395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$ComputationalProblemsRelatedToDictionaries.coverage" NAME="ComputationalProblemsRelatedToDictionaries Coverage Results" MODIFIED="1550678220761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.coverage" NAME="RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame Coverage Results" MODIFIED="1553012377588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$ImplementingPriorityQueues.coverage" NAME="ImplementingPriorityQueues Coverage Results" MODIFIED="1547395731025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$KeepTheLastNElements.coverage" NAME="KeepTheLastNElements Coverage Results" MODIFIED="1547394292911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$LookForSimilaritiesInTheDictionary.coverage" NAME="LookForSimilaritiesInTheDictionary Coverage Results" MODIFIED="1553011186905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$PalindromeTest.coverage" NAME="PalindromeTest Coverage Results" MODIFIED="1548698463669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoderWorld" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$SplitElementAnyLength.coverage" NAME="SplitElementAnyLength Coverage Results" MODIFIED="1547393571557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$FindMaxOrMinNElement.coverage" NAME="FindMaxOrMinNElement Coverage Results" MODIFIED="1547394769738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$KeysAreMappedToMultipleValuesInTheDictionary.coverage" NAME="KeysAreMappedToMultipleValuesInTheDictionary Coverage Results" MODIFIED="1550593057971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$Twisted_Trial_in_mycookbooktest1_py.coverage" NAME="Twisted Trial in mycookbooktest1.py Coverage Results" MODIFIED="1547391864679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.coverage" NAME="RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame Coverage Results" MODIFIED="1553012377588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$ImplementingPriorityQueues.coverage" NAME="ImplementingPriorityQueues Coverage Results" MODIFIED="1547395731025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$FindTheMostFrequentElementsInTheSequence.coverage" NAME="FindTheMostFrequentElementsInTheSequence Coverage Results" MODIFIED="1553098395405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$KeepTheLastNElements.coverage" NAME="KeepTheLastNElements Coverage Results" MODIFIED="1547394292911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$LookForSimilaritiesInTheDictionary.coverage" NAME="LookForSimilaritiesInTheDictionary Coverage Results" MODIFIED="1553011186905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$SplitElementAnyLength.coverage" NAME="SplitElementAnyLength Coverage Results" MODIFIED="1547393571557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -53,15 +52,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindMaxOrMinElement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindMaxOrMinElement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -114,9 +104,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NamingSlices.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NamingSlices.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindTheMostFrequentElementsInTheSequence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -155,6 +158,7 @@
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/LookForSimilaritiesInTheDictionary.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py" />
+        <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py" />
       </list>
     </option>
   </component>
@@ -168,7 +172,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
+    <option name="x" value="158" />
     <option name="y" value="23" />
     <option name="width" value="1245" />
     <option name="height" value="796" />
@@ -227,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame">
+  <component name="RunManager" selected="Python.FindTheMostFrequentElementsInTheSequence">
     <configuration name="ComputationalProblemsRelatedToDictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyStudyMaterials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,6 +251,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="FindTheMostFrequentElementsInTheSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyStudyMaterials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="KeepTheDictionaryInOrder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyStudyMaterials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,25 +284,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/KeepTheDictionaryInOrder.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="KeysAreMappedToMultipleValuesInTheDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyStudyMaterials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/KeysAreMappedToMultipleValuesInTheDictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,19 +328,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.KeysAreMappedToMultipleValuesInTheDictionary" />
       <item itemvalue="Python.KeepTheDictionaryInOrder" />
       <item itemvalue="Python.ComputationalProblemsRelatedToDictionaries" />
       <item itemvalue="Python.LookForSimilaritiesInTheDictionary" />
       <item itemvalue="Python.RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame" />
+      <item itemvalue="Python.FindTheMostFrequentElementsInTheSequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FindTheMostFrequentElementsInTheSequence" />
         <item itemvalue="Python.RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame" />
         <item itemvalue="Python.LookForSimilaritiesInTheDictionary" />
         <item itemvalue="Python.ComputationalProblemsRelatedToDictionaries" />
         <item itemvalue="Python.KeepTheDictionaryInOrder" />
-        <item itemvalue="Python.KeysAreMappedToMultipleValuesInTheDictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +363,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="23" width="1245" height="796" extended-state="0" />
+    <frame x="158" y="23" width="1245" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -404,13 +408,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SoloVar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SplitElementAnyLength.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -752,7 +749,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
