@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fab892-5120-4830-9b07-ccd63a012d26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortDictionaryListsByPublicKey.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/MyStudyMaterials$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1547375835741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$KeepTheDictionaryInOrder.coverage" NAME="KeepTheDictionaryInOrder Coverage Results" MODIFIED="1550676494395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$ComputationalProblemsRelatedToDictionaries.coverage" NAME="ComputationalProblemsRelatedToDictionaries Coverage Results" MODIFIED="1550678220761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$SortDictionaryListsByPublicKey.coverage" NAME="SortDictionaryListsByPublicKey Coverage Results" MODIFIED="1553621620609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$PalindromeTest.coverage" NAME="PalindromeTest Coverage Results" MODIFIED="1548698463669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoderWorld" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$FindMaxOrMinNElement.coverage" NAME="FindMaxOrMinNElement Coverage Results" MODIFIED="1547394769738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$KeysAreMappedToMultipleValuesInTheDictionary.coverage" NAME="KeysAreMappedToMultipleValuesInTheDictionary Coverage Results" MODIFIED="1550593057971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
@@ -52,15 +53,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KeysAreMappedToMultipleValuesInTheDictionary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/KeysAreMappedToMultipleValuesInTheDictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -113,11 +105,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindTheMostFrequentElementsInTheSequence.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindTheMostFrequentElementsInTheSequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortDictionaryListsByPublicKey.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortDictionaryListsByPublicKey.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -159,6 +160,7 @@
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py" />
+        <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortDictionaryListsByPublicKey.py" />
       </list>
     </option>
   </component>
@@ -231,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindTheMostFrequentElementsInTheSequence">
+  <component name="RunManager" selected="Python.SortDictionaryListsByPublicKey">
     <configuration name="ComputationalProblemsRelatedToDictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyStudyMaterials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,25 +267,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="KeepTheDictionaryInOrder" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyStudyMaterials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/KeepTheDictionaryInOrder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,20 +310,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="SortDictionaryListsByPublicKey" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyStudyMaterials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortDictionaryListsByPublicKey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.KeepTheDictionaryInOrder" />
       <item itemvalue="Python.ComputationalProblemsRelatedToDictionaries" />
       <item itemvalue="Python.LookForSimilaritiesInTheDictionary" />
       <item itemvalue="Python.RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame" />
       <item itemvalue="Python.FindTheMostFrequentElementsInTheSequence" />
+      <item itemvalue="Python.SortDictionaryListsByPublicKey" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SortDictionaryListsByPublicKey" />
         <item itemvalue="Python.FindTheMostFrequentElementsInTheSequence" />
         <item itemvalue="Python.RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame" />
         <item itemvalue="Python.LookForSimilaritiesInTheDictionary" />
         <item itemvalue="Python.ComputationalProblemsRelatedToDictionaries" />
-        <item itemvalue="Python.KeepTheDictionaryInOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -408,13 +410,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SplitElementAnyLength.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/KeepTheLastNElements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -759,6 +754,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortDictionaryListsByPublicKey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
