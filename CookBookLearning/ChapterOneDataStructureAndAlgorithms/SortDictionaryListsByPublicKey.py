@@ -13,3 +13,7 @@ rows_by_lname = sorted(rows, key=itemgetter("lname"))
 print(rows_by_lname)
 print(rows_by_name)
 print(rows_by_uid)
+
+
+print('You are so stupid')
+
