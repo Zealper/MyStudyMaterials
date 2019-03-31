@@ -13,7 +13,12 @@ rows_by_lname = sorted(rows, key=itemgetter("lname"))
 print(rows_by_lname)
 print(rows_by_name)
 print(rows_by_uid)
-
-
 print('You are so stupid')
 
+rows_by_fname = sorted(rows, key=lambda r: r['fname'])
+print(rows_by_fname)
+rows_by_lfname = sorted(rows, key=lambda r: (r['lname'], r['fname']))
+print(rows_by_lfname)
+
+print(min(rows, key=itemgetter('uid')))
+print(max(rows, key=itemgetter('uid')))
