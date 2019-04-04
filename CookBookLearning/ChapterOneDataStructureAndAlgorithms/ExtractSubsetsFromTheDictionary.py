@@ -20,3 +20,4 @@ p3 = {key:prices[key] for key in prices.keys() & tech_names}
 print(p1)
 print(p2)
 print(p3)
+print('woqingkeba hahahaha huang shizhanzheng meismdabuliaode ')

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fab892-5120-4830-9b07-ccd63a012d26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ExtractSubsetsFromTheDictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FilterElementsInTheSequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/GroupRecordsByField.py" beforeDir="false" afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/GroupRecordsByField.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ExtractSubsetsFromTheDictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ExtractSubsetsFromTheDictionary.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,7 +91,7 @@
       <file leaf-file-name="GroupRecordsByField.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/GroupRecordsByField.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="45">
               <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -105,7 +103,7 @@
       <file leaf-file-name="FilterElementsInTheSequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FilterElementsInTheSequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="555">
               <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -117,8 +115,8 @@
       <file leaf-file-name="ExtractSubsetsFromTheDictionary.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ExtractSubsetsFromTheDictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -126,7 +124,7 @@
       <file leaf-file-name="ImplementingPriorityQueues.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ImplementingPriorityQueues.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="600">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
@@ -187,7 +185,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
+    <option name="x" value="122" />
     <option name="y" value="23" />
     <option name="width" value="1245" />
     <option name="height" value="796" />
@@ -197,7 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,7 +376,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="23" width="1245" height="796" extended-state="0" />
+    <frame x="122" y="23" width="1245" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -386,9 +384,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32904148" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.28755364" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48640916" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48640916" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32904148" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33915213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3449709" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -699,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ImplementingPriorityQueues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="600">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
@@ -713,7 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/GroupRecordsByField.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="45">
           <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -723,7 +721,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FilterElementsInTheSequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="555">
           <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -733,8 +731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ExtractSubsetsFromTheDictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
