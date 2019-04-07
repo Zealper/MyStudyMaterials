@@ -64,4 +64,4 @@ elif kevsc < stusc:
 else:
     print("Draw")
 
-sum()
+print(sum(1, 2))

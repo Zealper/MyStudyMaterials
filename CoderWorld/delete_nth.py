@@ -21,6 +21,7 @@ import timeit
 #     print(end-start)
 #     return order
 
+
 def delete_nth(order,max_e):
     start = timeit.default_timer()
     ans = []
@@ -30,8 +31,7 @@ def delete_nth(order,max_e):
     print(end - start)
     return ans
 
+
 if __name__ == '__main__':
     a = delete_nth([20,37,20,21],1)
     print(a)
-
-

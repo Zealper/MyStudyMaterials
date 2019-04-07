@@ -1,4 +1,4 @@
-#python2
+# python2
 # x, k = map(int, raw_input().split())
 # y = input()
 # if y == k:
@@ -6,7 +6,7 @@
 # else:
 #     print('False')
 
-#python3
+# python3
 
 x, k = map(int, input().split())
 print(eval(input()) == k)

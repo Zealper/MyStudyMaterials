@@ -11,4 +11,5 @@ def compare_triplets(a, b):
             b_player += 1
     return [a_player, b_player]
 
+
 list()
