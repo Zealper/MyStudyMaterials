@@ -21,3 +21,6 @@ print(p1)
 print(p2)
 print(p3)
 print('woqingkeba hahahaha huang shizhanzheng meismdabuliaode ')
+
+
+print(dict(name='Zealper', age='25', money='17000', gender='male', sexual_orientation='female'))
