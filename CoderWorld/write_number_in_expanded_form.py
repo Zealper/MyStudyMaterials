@@ -7,6 +7,8 @@
 #
 # If you liked this kata, check out part 2!!
 #
+
+
 def expanded_form(num):
     num_str = str(num)
     num_len = len(num)
@@ -16,8 +18,6 @@ def expanded_form(num):
             num += '0'*(num_len-order-1)
             final_form.append(num)
     return ' + '.join(final_form)
-
-
 
 
 if __name__ == '__main__':

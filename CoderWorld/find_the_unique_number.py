@@ -18,6 +18,7 @@ def find_unique(unique):
         if unique_number == 1:
             return u
 
+
 if __name__ == "__main__":
     a = find_unique([ 0, 0, 0.55, 0, 0 ])
     print(a)

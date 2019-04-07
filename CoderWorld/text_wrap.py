@@ -14,8 +14,8 @@ def wrap(string, max_width):
 
 
 if __name__ == '__main__':
-    results = wrap(string='ABCDEFGHIJKLIMNOQRSTUVWXYZ', max_width=4)
-    print(results)
+    results_2 = wrap(string='ABCDEFGHIJKLIMNOQRSTUVWXYZ', max_width=4)
+    print(results_2)
 
 # def wrap(string, max_width):
 #     return "\n".join([string[i:i+max_width] for i in range(0, len(string), max_width)])

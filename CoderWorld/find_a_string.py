@@ -1,5 +1,5 @@
 
-#有问题来不起了
+# 有问题来不起了
 # In
 # this
 # challenge, the
@@ -145,6 +145,8 @@
 # loops
 # over
 # to. is excluded.
+
+
 def count_substring(string, sub_string):
     number = 0
     string_list = list(string)
@@ -154,7 +156,7 @@ def count_substring(string, sub_string):
             j += string_list[i+n]
         if j == sub_string:
             number += 1
-    return  print(number)
+    return print(number)
 
 
 if __name__ == '__main__':
