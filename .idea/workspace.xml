@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fab892-5120-4830-9b07-ccd63a012d26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonBlackHatLearning/TCPclient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBlackHatLearning/TCPserver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonBlackHatLearning/UDPclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBlackHatLearning/arper_working.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBlackHatLearning/pic_carver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBlackHatLearning/replace_netcat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBlackHatLearning/scapy_learning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,119 +18,77 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MyStudyMaterials$MapsTheNameToTheElementOfTheSequence.coverage" NAME="MapsTheNameToTheElementOfTheSequence Coverage Results" MODIFIED="1554626253889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$UDPclient.coverage" NAME="UDPclient Coverage Results" MODIFIED="1556982584565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1547375835741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$KeepTheDictionaryInOrder.coverage" NAME="KeepTheDictionaryInOrder Coverage Results" MODIFIED="1550676494395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$ComputationalProblemsRelatedToDictionaries.coverage" NAME="ComputationalProblemsRelatedToDictionaries Coverage Results" MODIFIED="1550678220761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$scapy_learning.coverage" NAME="scapy_learning Coverage Results" MODIFIED="1557334042231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$FindMaxOrMinNElement.coverage" NAME="FindMaxOrMinNElement Coverage Results" MODIFIED="1547394769738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$Twisted_Trial_in_mycookbooktest1_py.coverage" NAME="Twisted Trial in mycookbooktest1.py Coverage Results" MODIFIED="1547391864679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$FilterElementsInTheSequence.coverage" NAME="FilterElementsInTheSequence Coverage Results" MODIFIED="1554133320261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$TCPserver.coverage" NAME="TCPserver Coverage Results" MODIFIED="1556987325000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$pic_carver.coverage" NAME="pic_carver Coverage Results" MODIFIED="1557422453584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$LookForSimilaritiesInTheDictionary.coverage" NAME="LookForSimilaritiesInTheDictionary Coverage Results" MODIFIED="1553011186905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$AtTheSameTimeToDoDataConversionAndConversion.coverage" NAME="AtTheSameTimeToDoDataConversionAndConversion Coverage Results" MODIFIED="1554627358741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1547375835741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$SortDictionaryListsByPublicKey.coverage" NAME="SortDictionaryListsByPublicKey Coverage Results" MODIFIED="1554024938920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$TCPserver__1_.coverage" NAME="TCPserver (1) Coverage Results" MODIFIED="1556987297286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$PalindromeTest.coverage" NAME="PalindromeTest Coverage Results" MODIFIED="1548698463669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoderWorld" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$ExtractSubsetsFromTheDictionary.coverage" NAME="ExtractSubsetsFromTheDictionary Coverage Results" MODIFIED="1554563618091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$FindMaxOrMinNElement.coverage" NAME="FindMaxOrMinNElement Coverage Results" MODIFIED="1547394769738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$KeysAreMappedToMultipleValuesInTheDictionary.coverage" NAME="KeysAreMappedToMultipleValuesInTheDictionary Coverage Results" MODIFIED="1550593057971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$Twisted_Trial_in_mycookbooktest1_py.coverage" NAME="Twisted Trial in mycookbooktest1.py Coverage Results" MODIFIED="1547391864679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.coverage" NAME="RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame Coverage Results" MODIFIED="1553012377588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$FilterElementsInTheSequence.coverage" NAME="FilterElementsInTheSequence Coverage Results" MODIFIED="1554133320261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$ImplementingPriorityQueues.coverage" NAME="ImplementingPriorityQueues Coverage Results" MODIFIED="1547395731025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$TCPserver.coverage" NAME="TCPserver Coverage Results" MODIFIED="1556987325000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$FindTheMostFrequentElementsInTheSequence.coverage" NAME="FindTheMostFrequentElementsInTheSequence Coverage Results" MODIFIED="1553098395405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$KeepTheLastNElements.coverage" NAME="KeepTheLastNElements Coverage Results" MODIFIED="1547394292911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$LookForSimilaritiesInTheDictionary.coverage" NAME="LookForSimilaritiesInTheDictionary Coverage Results" MODIFIED="1553011186905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$GroupRecordsByField.coverage" NAME="GroupRecordsByField Coverage Results" MODIFIED="1554131522340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$arper_not_working.coverage" NAME="arper_not_working Coverage Results" MODIFIED="1557419476276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$SplitElementAnyLength.coverage" NAME="SplitElementAnyLength Coverage Results" MODIFIED="1547393571557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-    <SUITE FILE_PATH="coverage/MyStudyMaterials$AtTheSameTimeToDoDataConversionAndConversion.coverage" NAME="AtTheSameTimeToDoDataConversionAndConversion Coverage Results" MODIFIED="1554627358741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$SortObjectsThatDoNotNativelySupportComparisonOperations.coverage" NAME="SortObjectsThatDoNotNativelySupportComparisonOperations Coverage Results" MODIFIED="1554025663129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="text_aligment.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/text_aligment.py">
+      <file leaf-file-name="scapy_learning.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/scapy_learning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="225">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text_wrap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/text_wrap.py">
+      <file leaf-file-name="arper_working.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/arper_working.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="the_minion_game.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/the_minion_game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tuples_learning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/Tuples_learning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="word_order.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/word_order.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2220">
-              <caret line="148" selection-start-line="148" selection-end-line="148" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="write_number_in_expanded_form.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/write_number_in_expanded_form.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TCPclient.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/TCPclient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UDPclient.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/UDPclient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TCPserver.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/TCPserver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="275">
+              <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
               <folding>
-                <element signature="e#43#56#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_socket.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1770889009/_socket.py">
+      <file leaf-file-name="pic_carver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/pic_carver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arper.pcap" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/arper.pcap">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="770" column="23" selection-start-line="770" selection-start-column="19" selection-end-line="770" selection-end-column="23" />
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/scapy/arch/bpf/core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
             </state>
           </provider>
         </entry>
@@ -144,18 +103,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>poisoning</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ImplementingPriorityQueues.py" />
-        <option value="$PROJECT_DIR$/CookBookLearning/PalindromeTest.py" />
-        <option value="$PROJECT_DIR$/CoderWorld/PalindromeTest.py" />
-        <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/KeysAreMappedToMultipleValuesInTheDictionary.py" />
-        <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/KeepTheDictionaryInOrder.py" />
-        <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ComputationalProblemsRelatedToDictionaries.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/LookForSimilaritiesInTheDictionary.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py" />
@@ -201,6 +159,12 @@
         <option value="$PROJECT_DIR$/PythonBlackHatLearning/UDPclient.py" />
         <option value="$PROJECT_DIR$/PythonBlackHatLearning/TCPclient.py" />
         <option value="$PROJECT_DIR$/PythonBlackHatLearning/TCPserver.py" />
+        <option value="$PROJECT_DIR$/PythonBlackHatLearning/replace_netcat.py" />
+        <option value="$PROJECT_DIR$/PythonBlackHatLearning/arper.py" />
+        <option value="$PROJECT_DIR$/PythonBlackHatLearning/scapy_learning.py" />
+        <option value="$PROJECT_DIR$/PythonBlackHatLearning/arper.pcap" />
+        <option value="$PROJECT_DIR$/PythonBlackHatLearning/arper_not_working.py" />
+        <option value="$PROJECT_DIR$/PythonBlackHatLearning/pic_carver.py" />
       </list>
     </option>
   </component>
@@ -214,7 +178,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
+    <option name="x" value="248" />
     <option name="y" value="23" />
     <option name="width" value="1245" />
     <option name="height" value="796" />
@@ -267,45 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TCPserver">
-    <configuration name="AtTheSameTimeToDoDataConversionAndConversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyStudyMaterials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/AtTheSameTimeToDoDataConversionAndConversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="MapsTheNameToTheElementOfTheSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MyStudyMaterials" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/MapsTheNameToTheElementOfTheSequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.pic_carver">
     <configuration name="TCPserver (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyStudyMaterials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -344,7 +270,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="UDPclient" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arper_not_working" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyStudyMaterials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,26 +283,64 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBlackHatLearning/UDPclient.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBlackHatLearning/arper_working.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pic_carver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyStudyMaterials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBlackHatLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBlackHatLearning/pic_carver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="scapy_learning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyStudyMaterials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBlackHatLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBlackHatLearning/scapy_learning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.MapsTheNameToTheElementOfTheSequence" />
-      <item itemvalue="Python.AtTheSameTimeToDoDataConversionAndConversion" />
       <item itemvalue="Python.TCPserver" />
-      <item itemvalue="Python.UDPclient" />
       <item itemvalue="Python.TCPserver (1)" />
+      <item itemvalue="Python.scapy_learning" />
+      <item itemvalue="Python.arper_not_working" />
+      <item itemvalue="Python.pic_carver" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pic_carver" />
+        <item itemvalue="Python.arper_not_working" />
+        <item itemvalue="Python.scapy_learning" />
         <item itemvalue="Python.TCPserver" />
         <item itemvalue="Python.TCPserver (1)" />
-        <item itemvalue="Python.UDPclient" />
-        <item itemvalue="Python.AtTheSameTimeToDoDataConversionAndConversion" />
-        <item itemvalue="Python.MapsTheNameToTheElementOfTheSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -399,21 +363,22 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="396" y="23" width="1245" height="796" extended-state="0" />
-    <editor active="true" />
+    <frame x="186" y="23" width="1245" height="796" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32904148" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.28755364" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49356222" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32904148" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2918455" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4706724" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37768242" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2468828" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" weight="0.32904148" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4434907" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -422,7 +387,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,90 +408,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SoloVar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SplitElementAnyLength.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/LookForSimilaritiesInTheDictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/RemovesDuplicatesFromASequenceAndKeepsTheOrderBetweenElementsTheSame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortDictionaryListsByPublicKey.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ImplementingPriorityQueues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortObjectsThatDoNotNativelySupportComparisonOperations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/GroupRecordsByField.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FilterElementsInTheSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1770889009/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43335">
-          <caret line="2889" column="18" selection-start-line="2889" selection-start-column="18" selection-end-line="2889" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/MapsTheNameToTheElementOfTheSequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -783,7 +663,7 @@
     <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/UDPclient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -799,8 +679,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/TCPclient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/replace_netcat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/scapy_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/scapy/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/scapy/sendrecv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="835" selection-start-line="835" selection-end-line="835" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/scapy/arch/bpf/supersocket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/scapy/arch/bpf/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/scapy/arch/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/scapy/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="440" selection-start-line="440" selection-end-line="440" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5_1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="915" selection-start-line="915" selection-end-line="915" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/arper_working.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/pic_carver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBlackHatLearning/arper.pcap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="56" />
         </state>
       </provider>
     </entry>
