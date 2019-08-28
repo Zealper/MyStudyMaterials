@@ -11,7 +11,7 @@ print(name)
 print(share)
 print(price)
 print(date)
-name, share, price, (year, month, day) = date
+name, share, price, (year, month, day) = data
 print(year)
 print(month)
 print(day)
