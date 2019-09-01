@@ -6,7 +6,7 @@ from multiprocessing import Pool
 
 def scrapy_main_function(searching_what):
     """
-    一个爬取Psxels图片网站图片的爬虫
+    一个爬取Pexels图片网站图片的爬虫
     :return:
     """
         # 伪造请求头
@@ -82,7 +82,7 @@ def scrapy_main_function(searching_what):
 if __name__ == '__main__':
     p = Pool(6)
     # 输入你想搜索图片的关键词
-    searching_text_list = ['sexy woman', 'sexy man', 'cool cars', 'cute dog', 'cute cat', '']
+    searching_text_list = ['sexy woman', 'sexy man', 'cool cars', 'cute dog', 'cute cat', 'plants']
     for searching_text in searching_text_list:
         searching_what = searching_text
         p.apply_async(scrapy_main_function(searching_what))
