@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fab892-5120-4830-9b07-ccd63a012d26" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScrapyPythonFiles/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoderWorld/hey_heart.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoderWorld/hey_heart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SoloVar.py" beforeDir="false" afterPath="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SoloVar.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/MyStudyMaterials$scapy_learning.coverage" NAME="scapy_learning Coverage Results" MODIFIED="1557334042231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBlackHatLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$hey_heart.coverage" NAME="hey_heart Coverage Results" MODIFIED="1566927113163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoderWorld" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$find_a_string.coverage" NAME="find_a_string Coverage Results" MODIFIED="1566927055740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoderWorld" />
+    <SUITE FILE_PATH="coverage/MyStudyMaterials$ScrapyPexelsPhotos.coverage" NAME="ScrapyPexelsPhotos Coverage Results" MODIFIED="1567314343761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapyPythonFiles" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$FindMaxOrMinNElement.coverage" NAME="FindMaxOrMinNElement Coverage Results" MODIFIED="1547394769738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$Twisted_Trial_in_mycookbooktest1_py.coverage" NAME="Twisted Trial in mycookbooktest1.py Coverage Results" MODIFIED="1547391864679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookBookLearning" />
     <SUITE FILE_PATH="coverage/MyStudyMaterials$itertools_groupby_learning.coverage" NAME="itertools_groupby_learning Coverage Results" MODIFIED="1566927255683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CoderWorld" />
@@ -52,30 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="python_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/python_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="range_learning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/range_learning.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="rectangle_into_squares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoderWorld/rectangle_into_squares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-140" />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="string_validators.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoderWorld/string_validators.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,11 +97,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="write_number_in_expanded_form.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="write_number_in_expanded_form.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CoderWorld/write_number_in_expanded_form.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="309">
               <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScrapyPexelsPhotos.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adapters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/requests/adapters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="512" selection-start-line="512" selection-end-line="512" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/requests/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -142,6 +149,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>poisoning</find>
+      <find>tracking_id=yj9odc1lowd</find>
+      <find>traceback</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/NamingSlices.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/FindTheMostFrequentElementsInTheSequence.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortObjectsThatDoNotNativelySupportComparisonOperations.py" />
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SortDictionaryListsByPublicKey.py" />
@@ -201,6 +209,7 @@
         <option value="$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/SoloVar.py" />
         <option value="$PROJECT_DIR$/CoderWorld/hey_heart.py" />
         <option value="$PROJECT_DIR$/CoderWorld/input_learning.py" />
+        <option value="$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py" />
       </list>
     </option>
   </component>
@@ -214,10 +223,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="221" />
-    <option name="y" value="26" />
-    <option name="width" value="1219" />
-    <option name="height" value="796" />
+    <option name="x" value="290" />
+    <option name="y" value="73" />
+    <option name="width" value="1284" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -235,12 +244,7 @@
             <path>
               <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
-              <item name="CoderWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyStudyMaterials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyStudyMaterials" type="462c0819:PsiDirectoryNode" />
-              <item name="CookBookLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="ScrapyPythonFiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,8 +276,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.itertools_permutations_learning">
-    <configuration name="get_name_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ScrapyPexelsPhotos">
+    <configuration name="ScrapyPexelsPhotos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyStudyMaterials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,12 +285,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CoderWorld" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapyPythonFiles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CoderWorld/get_name_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,19 +373,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.get_name_number" />
       <item itemvalue="Python.hey_heart" />
       <item itemvalue="Python.input_learning" />
       <item itemvalue="Python.itertools_groupby_learning" />
       <item itemvalue="Python.itertools_permutations_learning" />
+      <item itemvalue="Python.ScrapyPexelsPhotos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ScrapyPexelsPhotos" />
         <item itemvalue="Python.itertools_permutations_learning" />
         <item itemvalue="Python.itertools_groupby_learning" />
         <item itemvalue="Python.input_learning" />
         <item itemvalue="Python.hey_heart" />
-        <item itemvalue="Python.get_name_number" />
       </list>
     </recent_temporary>
   </component>
@@ -403,32 +407,40 @@
       <configuration name="Twisted Trial in mycookbooktest1.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="26" width="1219" height="796" extended-state="0" />
-    <editor active="true" />
+    <frame x="290" y="73" width="1284" height="790" extended-state="0" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32904148" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2918455" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3576538" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37768242" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28632116" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32904148" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.2914863" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6940837" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.37662336" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27133656" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4434907" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4227994" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32904148" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32904148" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,31 +458,17 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="53" />
+      <option name="time" value="58" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="second_image_web_responses" />
+        <watch expression="second_image_web_responses.request.headers._store" />
+        <watch expression="second_image_web_responses.is_redirect" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CoderWorld/alphabet_rangoli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ComputationalProblemsRelatedToDictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/AtTheSameTimeToDoDataConversionAndConversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookBookLearning/ChapterOneDataStructureAndAlgorithms/ExtractSubsetsFromTheDictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -772,6 +770,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/workspaces/scrapy_spider/lib/python3.6/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="512" selection-start-line="512" selection-end-line="512" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
