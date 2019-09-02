@@ -80,7 +80,7 @@ def scrapy_main_function(searching_what):
 
 
 if __name__ == '__main__':
-    p = Pool(6)
+    p = Pool()
     # 输入你想搜索图片的关键词
     searching_text_list = ['sexy woman', 'sexy man', 'cool cars', 'cute dog', 'cute cat', 'plants']
     for searching_text in searching_text_list:

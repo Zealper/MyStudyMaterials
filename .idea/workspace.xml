@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70fab892-5120-4830-9b07-ccd63a012d26" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,8 +101,8 @@
       <file leaf-file-name="ScrapyPexelsPhotos.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-967">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="263">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -215,7 +214,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="156" />
     <option name="y" value="23" />
     <option name="width" value="1284" />
@@ -410,7 +409,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="23" width="1284" height="790" extended-state="1" />
+    <frame x="156" y="23" width="1284" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -758,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ScrapyPythonFiles/ScrapyPexelsPhotos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-967">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="263">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
